@@ -5,6 +5,7 @@ Window {
     width: 640
     height: 480
     visible: true
+add confix
     title: qsTr("Hello World")
     asdas
 add
